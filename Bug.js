@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that expects a specific type of prop but receives something else.  For example, if a component expects a number but receives a string, you might get an error about a type mismatch or an unexpected prop type. This often happens when dealing with data fetched from an API or passed down through props from a parent component.
